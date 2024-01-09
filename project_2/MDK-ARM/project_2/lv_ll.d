@@ -1,0 +1,11 @@
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\lv_ll.c
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\lv_ll.h
+project_2\lv_ll.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+project_2\lv_ll.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+project_2\lv_ll.o: D:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\lv_mem.h
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\../lv_conf_internal.h
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\../../../lv_conf.h
+project_2\lv_ll.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+project_2\lv_ll.o: ..\GUI\lvgl\src\misc\lv_types.h
