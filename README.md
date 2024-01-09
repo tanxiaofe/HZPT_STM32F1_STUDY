@@ -1,3 +1,5 @@
+Project one is written using standard library functions, and project two is written using hardware abstraction library.
+
 1.it is required to create a new KEIL project and name the project "project_1". The project folder is named "Name +
 student ID".
 2. Complete the specific requirements according to some of the program documents provided in the question. The requirements are as follows:
